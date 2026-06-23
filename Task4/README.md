@@ -4,7 +4,7 @@
 Build a chatbot that answers general health-related questions.
 
 ## Model Used
-Mistral / OpenAI API (LLM-based chatbot)
+Mistral
 
 ## Features
 - Prompt engineering
